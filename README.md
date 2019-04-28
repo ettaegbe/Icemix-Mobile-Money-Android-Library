@@ -120,14 +120,14 @@ That's it! You should now be ready to use the API
 
 ## Authors
 
-* **ETTA EGBE JOSEPH** - *Initial work* - [Yo (U) Ltd](https://etta.icemix.net)
+* **ETTA EGBE JOSEPH** - *Initial work* - [ETTA.ICEMIX.NET](https://etta.icemix.net)
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [MIT LICENSE](https://opensource.org/licenses/MIT) file for details
 
 ## Acknowledgments
 
  * GUY NONO
-  * MTN MOBILE MONEY UGANDA
+ * MTN MOBILE MONEY UGANDA
